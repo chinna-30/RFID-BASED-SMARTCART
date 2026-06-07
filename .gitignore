@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# Allow C source files
+!*.c
+
+# Allow header files
+!*.h
+
+# Allow this file itself
+!.gitignore
